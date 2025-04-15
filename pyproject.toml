@@ -8,7 +8,11 @@ readme = "README.md"
 packages = [
   { include = "mode_rag", from = "src" }
 ]
-
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
