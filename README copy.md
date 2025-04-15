@@ -281,8 +281,6 @@ python traditional_rag.py --dataset squad --chunks 100 --num_questions 100
 - Customize `--chunks` and `--num_questions` as needed.
 
 ### 📊 Benchmark Results
-[View Logs](https://github.com/rahulanand1103/mode/tree/main/benchmarking/eval/logs/ours)
-
 #### MODE
 | Dataset  | No. Chunk | No. Question | Top n Model | GPT Accuracy | GPT F1 Score | BERT Precision | BERT Recall | BERT F1 Score |
 |:---------|:---------:|:------------:|:-----:|:------------:|:------------:|:--------------:|:-----------:|:-------------:|
@@ -300,9 +298,6 @@ python traditional_rag.py --dataset squad --chunks 100 --num_questions 100
 | SQuAD    | 500       | 100          | 2     | 0.82         | 0.9011       | 0.7660         | 0.8047      | 0.7825        |
 
 #### Traditional RAG
-[View Logs](https://github.com/rahulanand1103/mode/tree/main/benchmarking/eval/logs/traditional_rag)
-
-
 | Dataset  | No. Chunks | GPT Accuracy | GPT F1 Score | BERT Precision | BERT F1 Score |
 |:---------|:----------:|:------------:|:------------:|:--------------:|:-------------:|
 | HotpotQA | 100        | 0.70         | 0.82         | 0.23           | 0.29          |

@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "mode_rag"
+version = "1.0.0"
+description = "MODE organizes documents into semantically coherent clusters and uses centroid-based retrieval to deliver scalable, efficient, and interpretable Retrieval-Augmented Generation without relying on large vector databases."
+authors = ["Rahul Anand rahulanand1103@gmail.com"]
+license = "MIT"
+readme = "README.md"
+packages = [
+  { include = "mode_rag", from = "src" }
+]
+
+
+[tool.poetry.dependencies]
+python = "^3.9"
+torch = "2.4.1"
+hdbscan = "0.8.40"
+litellm = "1.54.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+langchain_huggingface = "0.1.2"
+langchain_community = "0.3.4"
+pypdf = "5.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

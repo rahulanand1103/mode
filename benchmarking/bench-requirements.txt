@@ -1,0 +1,9 @@
+bert_score==0.3.13
+datasets==3.5.0
+nltk==3.9.1
+langchain_chroma==0.2.2     
+langchain_huggingface==0.1.2
+langchain_community==0.3.4  
+langchain_openai==0.2.5
+FlashRank==0.2.10
+# mode_rag

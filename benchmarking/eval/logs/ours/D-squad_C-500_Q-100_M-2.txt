@@ -1,0 +1,910 @@
+Sample Number: 1
+Question: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Ground Truth: Saint Bernadette Soubirous
+Generated Response: Bernadette Soubirous
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.8702, 0.8591, 0.8646
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 2
+Question: When did the Scholastic Magazine of Notre dame begin publishing?
+Ground Truth: September 1876
+Generated Response: September 1876.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8912, 0.9448, 0.9172
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 3
+Question: Where is the headquarters of the Congregation of the Holy Cross?
+Ground Truth: Rome
+Generated Response: Rome.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8567, 0.9310, 0.8923
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 4
+Question: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Ground Truth: eight
+Generated Response: Eight B.S. degrees.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.4671, 0.5823, 0.5184
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 5
+Question: What entity provides help with the management of time for new students at Notre Dame?
+Ground Truth: Learning Resource Center
+Generated Response: Learning Resource Center
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 6
+Question: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+Ground Truth: 1924
+Generated Response: 1921
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.8214, 0.7125, 0.7631
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 7
+Question: What institute at Notre Dame studies  the reasons for violent conflict?
+Ground Truth: Joan B. Kroc Institute for International Peace Studies
+Generated Response: Joan B. Kroc Institute for International Peace Studies.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9670, 0.9875, 0.9771
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 8
+Question: How many stories tall is the main library at Notre Dame?
+Ground Truth: 14
+Generated Response: 14 stories tall.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.4500, 0.5894, 0.5103
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 9
+Question: How many incoming students did Notre Dame admit in fall 2015?
+Ground Truth: 3,577
+Generated Response: 3,577 students.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.6933, 0.8026, 0.7439
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 10
+Question: Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+Ground Truth: 18th overall
+Generated Response: 18th overall among national universities.
+Exact Match: 0.0
+F1 Score: 0.5714285714285715
+BERTScore (P, R, F1): 0.6659, 0.8942, 0.7634
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 11
+Question: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+Ground Truth: Father Joseph Carrier, C.S.C.
+Generated Response: I don't know.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.4356, 0.4037, 0.4190
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 12
+Question: In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+Ground Truth: 1882
+Generated Response: I don't know.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.3443, 0.3039, 0.3228
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 13
+Question: Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+Ground Truth: The Lobund Institute
+Generated Response: The Lobund Institute.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9239, 0.9709, 0.9468
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 14
+Question: Gurian created what in 1939 at Notre Dame?
+Ground Truth: The Review of Politics
+Generated Response: A program on totalitarianism.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.6765, 0.6966, 0.6864
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 15
+Question: Who was the president of Notre Dame in 2012?
+Ground Truth: John Jenkins
+Generated Response: John I. Jenkins.
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.6810, 0.8190, 0.7436
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 16
+Question: How many undergrads were attending Notre Dame in 2014?
+Ground Truth: 8,448
+Generated Response: 8,448 undergraduates.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.6154, 0.8004, 0.6958
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 17
+Question: What percentage of undergrads live on the Notre Dame campus?
+Ground Truth: 80%
+Generated Response: About 80%.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.7494, 0.8509, 0.7969
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 18
+Question: What is Congregation of Holy Cross in Latin?
+Ground Truth: Congregatio a Sancta Cruce
+Generated Response: Congregatio a Sancta Cruce
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 19
+Question: What was the music hall at Notre Dame called?
+Ground Truth: Washington Hall
+Generated Response: DeBartolo Performing Arts Center.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5993, 0.6441, 0.6209
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 20
+Question: What type of education was pushed at Notre Dame before its embracing of national standards?
+Ground Truth: scholastic and classical
+Generated Response: Scholastic and classical education.
+Exact Match: 0.0
+F1 Score: 0.8571428571428571
+BERTScore (P, R, F1): 0.7877, 0.8657, 0.8248
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 21
+Question: The Notre Dame football team got a new head coach in 1918, who was it?
+Ground Truth: Knute Rockne
+Generated Response: Knute Rockne
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 22
+Question: Catholic people identified with Notre Dame, what religious group did people feel Yale represented?
+Ground Truth: the Protestant establishment
+Generated Response: Protestant establishment or Puritan clergy.
+Exact Match: 0.0
+F1 Score: 0.5714285714285715
+BERTScore (P, R, F1): 0.6388, 0.7448, 0.6878
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 23
+Question: Which person became vice-president of Notre Dame in 1933?
+Ground Truth: Father John Francis O'Hara
+Generated Response: John Francis O'Hara
+Exact Match: 0.0
+F1 Score: 0.8571428571428571
+BERTScore (P, R, F1): 0.9653, 0.9041, 0.9337
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 24
+Question: Around the time that Rev. Cavanaugh became president of Notre Dame by how much did the undergrad student body of Notre Dame increase?
+Ground Truth: more than half
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.6555, 0.5515, 0.5990
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 25
+Question: What was the lifespan of Theodore Hesburgh?
+Ground Truth: 1917–2015
+Generated Response: 1917–2015
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 26
+Question: What type of educational institute is Hesburgh given credit for creating at Notre Dame?
+Ground Truth: coeducational
+Generated Response: Coeducational institution.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.7338, 0.7172, 0.7254
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 27
+Question: During what years was Edward Malloy president of Notre Dame?
+Ground Truth: 1987–2005
+Generated Response: 1987–2005
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 28
+Question: When did John Jenkins become the president of Notre Dame?
+Ground Truth: 2005
+Generated Response: July 1, 2005.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.6542, 0.6930, 0.6730
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 29
+Question: Which congregation is in charge of the Old College at Notre Dame?
+Ground Truth: Congregation of Holy Cross
+Generated Response: Congregation of Holy Cross.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9293, 0.9668, 0.9477
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 30
+Question: Which person oversaw the creation of a science hall at Notre Dame in 1883?
+Ground Truth: Fr. Zahm
+Generated Response: Fr. Zahm.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8427, 0.8305, 0.8366
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 31
+Question: How many halls are at Notre Dame that house students?
+Ground Truth: 29
+Generated Response: 29 halls.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.5467, 0.6449, 0.5917
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 32
+Question: In what year did Notre Dame create the Office of Sustainability?
+Ground Truth: 2008
+Generated Response: 2008
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 33
+Question: In what year did Notre Dame first have a facility in England?
+Ground Truth: 1968
+Generated Response: I don't know.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.3487, 0.2823, 0.3120
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 34
+Question: What was Notre Dame's first college?
+Ground Truth: The College of Arts and Letters
+Generated Response: Old College.
+Exact Match: 0.0
+F1 Score: 0.28571428571428575
+BERTScore (P, R, F1): 0.5395, 0.4020, 0.4607
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 35
+Question: Which president at Notre Dame created the College of Science?
+Ground Truth: Father Patrick Dillon
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5100, 0.2921, 0.3715
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 36
+Question: In 1899 Notre Dame formed which college?
+Ground Truth: School of Architecture
+Generated Response: Engineering College
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.6252, 0.7090, 0.6645
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 37
+Question: In what year did the opening of a theology library at Notre Dame occur?
+Ground Truth: 2015
+Generated Response: 2015
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 38
+Question: What caused many intellectual Catholics to leave europe in the 1930s?
+Ground Truth: The rise of Hitler and other dictators
+Generated Response: The rise of Hitler and other dictators.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9392, 0.9644, 0.9516
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 39
+Question: The school known as Notre Dame is known by a more lengthy name, what is it?
+Ground Truth: University of Notre Dame du
+Generated Response: University of Notre Dame du Lac
+Exact Match: 0.0
+F1 Score: 0.9090909090909091
+BERTScore (P, R, F1): 0.8276, 0.8801, 0.8531
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 40
+Question: What caused Notre Dame to become notable in the early 20th century?
+Ground Truth: its Fighting Irish football team
+Generated Response: Fighting Irish football team's success.
+Exact Match: 0.0
+F1 Score: 0.6
+BERTScore (P, R, F1): 0.7292, 0.7167, 0.7229
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 41
+Question: Where among US universities does Notre Dame rank?
+Ground Truth: among the top twenty
+Generated Response: Top 20 among US universities.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.6202, 0.7662, 0.6855
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 42
+Question: In what year was Father Edward Sorin given two years to create a college?
+Ground Truth: 1842
+Generated Response: 1842
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 43
+Question: In what year did the initial degrees get handed out at Notre Dame?
+Ground Truth: 1849
+Generated Response: 1849
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 44
+Question: Which television station finds its home at Notre Dame?
+Ground Truth: NDtv
+Generated Response: NDTV (Notre Dame Television)
+Exact Match: 0.0
+F1 Score: 0.4
+BERTScore (P, R, F1): 0.5421, 0.6566, 0.5939
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 45
+Question: How much is Eddy Street Commons at Notre Dame expected to cost?
+Ground Truth: $215 million
+Generated Response: I don't know.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.3865, 0.3028, 0.3396
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 46
+Question: What does the acronym NCAA stand for?
+Ground Truth: National Collegiate Athletic Association
+Generated Response: National Collegiate Athletic Association
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 47
+Question: To what conference did the Fighting Irish go after the Big East?
+Ground Truth: the ACC
+Generated Response: Atlantic Coast Conference (ACC).
+Exact Match: 0.0
+F1 Score: 0.4
+BERTScore (P, R, F1): 0.6103, 0.5893, 0.5996
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 48
+Question: Who currently provides uniforms to Notre Dame sport teams?
+Ground Truth: Under Armour
+Generated Response: Under Armour.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8571, 0.9274, 0.8909
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 49
+Question: Which team did Notre Dame's football team find inspiration from?
+Ground Truth: Michigan Wolverines football team
+Generated Response: Army team.
+Exact Match: 0.0
+F1 Score: 0.3333333333333333
+BERTScore (P, R, F1): 0.6521, 0.5383, 0.5898
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 50
+Question: What notable football player played at Notre Dame from 1916 to 1920?
+Ground Truth: George Gipp
+Generated Response: George Gipp.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9094, 0.9457, 0.9272
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 51
+Question: What is displayed at Zahm House for football home games at Notre Dame?
+Ground Truth: two-story banner
+Generated Response: A two-story banner.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8568, 0.9019, 0.8788
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 52
+Question: How many wins does the Notre Dame men's basketball team have?
+Ground Truth: over 1,600
+Generated Response: Over 1,600 wins.
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.7611, 0.8640, 0.8092
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 53
+Question: Who wrote the original lyrics to the Notre Dame Victory March?
+Ground Truth: John F. Shea
+Generated Response: John F. Shea wrote the original lyrics.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.6948, 0.8093, 0.7477
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 54
+Question: Ronald Reagan had a nickname, what was it?
+Ground Truth: The Gipper
+Generated Response: The Gipper.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8710, 0.9235, 0.8965
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 55
+Question: Which Secretary of State attended Notre Dame?
+Ground Truth: Condoleezza Rice
+Generated Response: Condoleezza Rice attended Notre Dame.
+Exact Match: 0.0
+F1 Score: 0.5714285714285715
+BERTScore (P, R, F1): 0.7060, 0.8374, 0.7661
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 56
+Question: When did Beyonce start becoming popular?
+Ground Truth: in the late 1990s
+Generated Response: Late 1990s with Destiny's Child.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.6798, 0.7688, 0.7216
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 57
+Question: After her second solo album, what other entertainment venture did Beyonce explore?
+Ground Truth: acting
+Generated Response: Acting in film and television.
+Exact Match: 0.0
+F1 Score: 0.33333333333333337
+BERTScore (P, R, F1): 0.4116, 0.4009, 0.4061
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 58
+Question: In her music, what are some recurring elements in them?
+Ground Truth: love, relationships, and monogamy
+Generated Response: Themes of love, empowerment, and relationships.
+Exact Match: 0.0
+F1 Score: 0.6
+BERTScore (P, R, F1): 0.7175, 0.7132, 0.7153
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 59
+Question: Beyonce's younger sibling also sang with her in what band?
+Ground Truth: Destiny's Child
+Generated Response: Destiny's Child
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 60
+Question: What town did Beyonce go to school in?
+Ground Truth: Fredericksburg
+Generated Response: Fredericksburg, Texas.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.7209, 0.7991, 0.7580
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 61
+Question: Who decided to place Beyonce's group in Star Search the talent show?
+Ground Truth: Arne Frager
+Generated Response: Mathew Knowles.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.7192, 0.6404, 0.6776
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 62
+Question: Which film featured Destiny's Child's first major single?
+Ground Truth: Men in Black
+Generated Response: Men in Black
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 63
+Question: What mental health issue did Beyonce go through?
+Ground Truth: depression
+Generated Response: Depression following a split with bandmates.
+Exact Match: 0.0
+F1 Score: 0.33333333333333337
+BERTScore (P, R, F1): 0.5709, 0.7556, 0.6504
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 64
+Question: "Charlie's Angels" featured which single from the band members?
+Ground Truth: Independent Women Part I
+Generated Response: "Independent Women Part I" by Destiny's Child.
+Exact Match: 0.0
+F1 Score: 0.7272727272727273
+BERTScore (P, R, F1): 0.6893, 0.8506, 0.7615
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 65
+Question: Who did Beyonce star with in the movie, "Austin Powers in Goldmember"?
+Ground Truth: Mike Myers
+Generated Response: Mike Myers.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8628, 0.9343, 0.8971
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 66
+Question: What was the highest Beyonce's first solo recording achieved in the Billboard Hot 100?
+Ground Truth: number four
+Generated Response: Number one.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.6750, 0.6549, 0.6648
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 67
+Question: Destiny's Child's final album was named what?
+Ground Truth: Destiny Fulfilled
+Generated Response: Destiny Fulfilled.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9291, 0.9715, 0.9498
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 68
+Question: How many albums did Beyonce sell in the first week when she released her second album?
+Ground Truth: 541,000
+Generated Response: 541,000 copies
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.7462, 0.8331, 0.7873
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 69
+Question: What movie did Beyonce act in 2006?
+Ground Truth: The Pink Panther
+Generated Response: Dreamgirls and The Pink Panther.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.6921, 0.7493, 0.7196
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 70
+Question: Beyonce got married in 2008 to whom?
+Ground Truth: Jay Z
+Generated Response: Beyoncé married Jay Z in 2008.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.5955, 0.6844, 0.6369
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 71
+Question: Beyonce portrayed which character in the film, Cadillac Records?
+Ground Truth: Etta James
+Generated Response: Etta James
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 72
+Question: How many awards was Beyonce nominated for at the 52nd Grammy Awards?
+Ground Truth: ten
+Generated Response: Ten nominations.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.5352, 0.5987, 0.5652
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 73
+Question: Beyonce would take a break from music in which year?
+Ground Truth: 2010
+Generated Response: 2010
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 74
+Question: In which year was reports about Beyonce performing for Muammar Gaddafi surface?
+Ground Truth: 2011
+Generated Response: 2011
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 75
+Question: Beyonce's fourth album debuted in what year?
+Ground Truth: 2011
+Generated Response: 2011
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 76
+Question: When did Beyonce have her first child?
+Ground Truth: January 7, 2012
+Generated Response: January 7, 2012
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 77
+Question: Destiny's Child released a compilation album about which topic?
+Ground Truth: romance
+Generated Response: Romance-themed songs.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.6513, 0.7255, 0.6864
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 78
+Question: How many dates did Beyonce's "The Mrs. Carter Show" entail?
+Ground Truth: 132
+Generated Response: 132 dates.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.5778, 0.6829, 0.6259
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 79
+Question: Where did Beyonce release her 5th album to a huge surprise?
+Ground Truth: the iTunes Store
+Generated Response: iTunes Store.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.7853, 0.8122, 0.7985
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 80
+Question: How many awards did Beyonce take home with her at the 57th Grammy Awards?
+Ground Truth: three
+Generated Response: Three awards.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.5599, 0.6630, 0.6071
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 81
+Question: Beyonce released the song "Formation" on which online music service?
+Ground Truth: Tidal
+Generated Response: Tidal
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 82
+Question: As of April 2014, how many albums have Jay Z and Beyonce sold together?
+Ground Truth: 300 million
+Generated Response: 300 million albums.
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.6883, 0.8211, 0.7489
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 83
+Question: Jay Z and Beyonce attended which event together in August of 2011?
+Ground Truth: MTV Video Music Awards
+Generated Response: 2011 MTV Video Music Awards.
+Exact Match: 0.0
+F1 Score: 0.888888888888889
+BERTScore (P, R, F1): 0.7895, 0.8064, 0.7979
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 84
+Question: Jay Z has a website called what?
+Ground Truth: Lifeandtimes.com
+Generated Response: Lifeandtimes.com
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 85
+Question: Beyonce and Jay-Z went to a rally for the acquittal of whom?
+Ground Truth: George Zimmerman
+Generated Response: George Zimmerman.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8661, 0.9401, 0.9016
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 86
+Question: Beyonce did an interview with which magazine and was asked about feminism?
+Ground Truth: Vogue
+Generated Response: Vogue.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8608, 0.9324, 0.8952
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 87
+Question: Beyonce signed a letter with who in 2015?
+Ground Truth: the ONE Campaign
+Generated Response: The ONE Campaign.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8118, 0.8445, 0.8278
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 88
+Question: Beyonce along with Jay Z met with whom's family after their death?
+Ground Truth: Freddie Gray
+Generated Response: George Floyd's family.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.6257, 0.6212, 0.6235
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 89
+Question: Beyonce beat out which musical artists for most paid between June 2007 and June 2008?
+Ground Truth: Madonna and Celine Dion
+Generated Response: Madonna and Celine Dion.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9409, 0.9685, 0.9545
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 90
+Question: Beyonce's range in singing is how many octaves?
+Ground Truth: four
+Generated Response: Four octaves.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.4731, 0.6294, 0.5402
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 91
+Question: Music from Beyonce is generally categorized as what genre?
+Ground Truth: R&B
+Generated Response: Pop and R&B.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.6925, 0.6858, 0.6891
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 92
+Question: Beyonce does not create which aspect of her music?
+Ground Truth: beats
+Generated Response: Beyoncé does not create beats.
+Exact Match: 0.0
+F1 Score: 0.33333333333333337
+BERTScore (P, R, F1): 0.4561, 0.5259, 0.4885
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 93
+Question: Pop Songwriter of the Year award in 2001 was awarded to whom?
+Ground Truth: Beyoncé
+Generated Response: Beyoncé.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8782, 0.8933, 0.8857
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 94
+Question: To whom did Beyonce credit as her major influence on her music?
+Ground Truth: Michael Jackson
+Generated Response: Michael Jackson
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 95
+Question: What themes were influenced by her acting role in Dreamgirls?
+Ground Truth: feminism and female empowerment
+Generated Response: Feminism and female empowerment themes.
+Exact Match: 0.0
+F1 Score: 0.888888888888889
+BERTScore (P, R, F1): 0.8064, 0.8947, 0.8483
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 96
+Question: Beyonce has noted which first lady with saying "She proves you can do it all"?
+Ground Truth: Michelle Obama
+Generated Response: Michelle Obama.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8668, 0.9417, 0.9027
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 97
+Question: Beyonce had an all-female tour band whose name was what?
+Ground Truth: Suga Mama
+Generated Response: Suga Mama
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 98
+Question: What characteristics has Beyonce received acclaim for?
+Ground Truth: stage presence and voice
+Generated Response: Stage presence, voice, empowerment, and songwriting.
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.6893, 0.8611, 0.7657
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 99
+Question: Beyonce self proclaimed alter ego is named what?
+Ground Truth: Sasha Fierce
+Generated Response: Sasha Fierce
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 100
+Question: Beyonce's sex appeal is characterized as what?
+Ground Truth: wide-ranging
+Generated Response: Wide-ranging, sexy, seductive, and provocative.
+Exact Match: 0.0
+F1 Score: 0.33333333333333337
+BERTScore (P, R, F1): 0.5836, 0.8435, 0.6899
+GPT Accuracy Check: yes
+--------------------------------------------------
+
+================================================== Overall Evaluation Results ==================================================
+GPT Accuracy: 0.8200
+GPT F1 Score: 0.9011
+Exact Match: 0.4200
+F1 Score: 0.6946
+BERT Precision: 0.7660
+BERT Recall: 0.8047
+BERT F1 Score: 0.7825
+========================================================================================================

@@ -1,0 +1,190 @@
+Sample Number: 1
+Question: Which magazine was started first Arthur's Magazine or First for Women?
+Ground Truth: Arthur's Magazine
+Generated Response: Arthur's Magazine was started first.
+Exact Match: 0.0
+F1 Score: 0.5714285714285715
+BERTScore (P, R, F1): 0.2068, 0.5915, 0.3764
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 2
+Question: The Oberoi family is part of a hotel company that has a head office in what city?
+Ground Truth: Delhi
+Generated Response: Delhi
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 3
+Question: Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+Ground Truth: President Richard Nixon
+Generated Response: President Richard Nixon's middle name.
+Exact Match: 0.0
+F1 Score: 0.5
+BERTScore (P, R, F1): 0.2037, 0.4991, 0.3387
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 4
+Question:  What nationality was James Henry Miller's wife?
+Ground Truth: American
+Generated Response: I don't know.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): -0.3795, -0.3366, -0.3533
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 5
+Question: Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+Ground Truth: alcohol
+Generated Response: Alcohol.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.2075, 0.2361, 0.2248
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 6
+Question: Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+Ground Truth: Jonathan Stark
+Generated Response: Henri Leconte won more Grand Slam titles.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): -0.1339, -0.0889, -0.1075
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 7
+Question: Which genus of moth in the world's seventh-largest country contains only one species?
+Ground Truth: Crambidae
+Generated Response: Nepita contains only one species.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): -0.2024, -0.2090, -0.2009
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 8
+Question: Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+Ground Truth: Badr Hari
+Generated Response: Badr Hari.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.6911, 0.7323, 0.7126
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 9
+Question: The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+Ground Truth: 2006
+Generated Response: September 2006.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.4177, 0.5349, 0.4762
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 10
+Question: What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+Ground Truth: 6.213 km long
+Generated Response: 6.213 km long track.
+Exact Match: 0.0
+F1 Score: 0.8571428571428571
+BERTScore (P, R, F1): 0.6589, 0.8498, 0.7503
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 11
+Question: Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+Ground Truth: Jaime Meline
+Generated Response: El-P
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): -0.1963, 0.0435, -0.0866
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 12
+Question: Gunmen from Laredo starred which narrator of "Frontier"?
+Ground Truth: Walter Darwin Coy
+Generated Response: Walter Coy
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.8880, 0.6787, 0.7784
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 13
+Question: Where did the form of music played by Die Rhöner Säuwäntzt originate?
+Ground Truth: United States
+Generated Response: Eichenzell-Lütter, Hessen, Germany.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): -0.1230, 0.0585, -0.0361
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 14
+Question: In which American football game was Malcolm Smith named Most Valuable player?
+Ground Truth: Super Bowl XLVIII
+Generated Response: Super Bowl XLVIII.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8666, 0.9097, 0.8884
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 15
+Question: What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+Ground Truth: US 60
+Generated Response: U.S. Highway 60
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.1010, 0.1819, 0.1435
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 16
+Question: The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+Ground Truth: 2006
+Generated Response: 2003
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.7982, 0.7981, 0.7990
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 17
+Question: What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? 
+Ground Truth: Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.
+Generated Response: James Hetfield, Lars Ulrich, Kirk Hammett, Robert Trujillo.
+Exact Match: 0.0
+F1 Score: 0.6
+BERTScore (P, R, F1): 0.6468, 0.4583, 0.5489
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 18
+Question: Human Error" is the season finale of the third season of a tv show that aired on what network?
+Ground Truth: Fox
+Generated Response: Fox network.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.0876, 0.1163, 0.1054
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 19
+Question: Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+Ground Truth: 2017
+Generated Response: 2017
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 20
+Question: American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+Ground Truth: Nevada
+Generated Response: Nevada.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.6770, 0.8028, 0.7388
+GPT Accuracy Check: yes
+--------------------------------------------------
+
+================================================== Overall Evaluation Results ==================================================
+GPT Accuracy: 0.7000
+GPT F1 Score: 0.8235
+Exact Match: 0.3000
+F1 Score: 0.5731
+BERT Precision: 0.3708
+BERT Recall: 0.4428
+BERT F1 Score: 0.4049
+========================================================================================================

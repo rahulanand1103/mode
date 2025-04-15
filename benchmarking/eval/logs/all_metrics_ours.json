@@ -1,0 +1,110 @@
+{
+    "dataset-hotpotqa_chunk-100-question-100_model-2": {
+        "Exact Match": 0.5,
+        "F1 Score": 0.6657,
+        "GPT Accuracy": 0.7,
+        "GPT F1 Score": 0.8235,
+        "BERT Precision": 0.7427,
+        "BERT Recall": 0.7612,
+        "BERT F1 Score": 0.7493
+    },
+    "dataset-hotpotqa_chunk-100-question-100_model-1": {
+        "Exact Match": 0.7,
+        "F1 Score": 0.83,
+        "GPT Accuracy": 0.8,
+        "GPT F1 Score": 0.8889,
+        "BERT Precision": 0.8059,
+        "BERT Recall": 0.8276,
+        "BERT F1 Score": 0.8154
+    },
+    "dataset-squad_chunk-200-question-100_model-2": {
+        "Exact Match": 0.42,
+        "F1 Score": 0.6673,
+        "GPT Accuracy": 0.78,
+        "GPT F1 Score": 0.8764,
+        "BERT Precision": 0.7429,
+        "BERT Recall": 0.7828,
+        "BERT F1 Score": 0.7595
+    },
+    "dataset-squad_chunk-200-question-100_model-1": {
+        "Exact Match": 0.42,
+        "F1 Score": 0.6133,
+        "GPT Accuracy": 0.72,
+        "GPT F1 Score": 0.8372,
+        "BERT Precision": 0.7449,
+        "BERT Recall": 0.738,
+        "BERT F1 Score": 0.7336
+    },
+    "dataset-squad_chunk-500-question-100_model-1": {
+        "Exact Match": 0.41,
+        "F1 Score": 0.6136,
+        "GPT Accuracy": 0.71,
+        "GPT F1 Score": 0.8304,
+        "BERT Precision": 0.7495,
+        "BERT Recall": 0.7473,
+        "BERT F1 Score": 0.7408
+    },
+    "dataset-squad_chunk-500-question-100_model-2": {
+        "Exact Match": 0.42,
+        "F1 Score": 0.6946,
+        "GPT Accuracy": 0.82,
+        "GPT F1 Score": 0.9011,
+        "BERT Precision": 0.766,
+        "BERT Recall": 0.8047,
+        "BERT F1 Score": 0.7825
+    },
+    "dataset-hotpotqa_chunk-500-question-100_model-1": {
+        "Exact Match": 0.549,
+        "F1 Score": 0.6678,
+        "GPT Accuracy": 0.7843,
+        "GPT F1 Score": 0.8791,
+        "BERT Precision": 0.7777,
+        "BERT Recall": 0.7581,
+        "BERT F1 Score": 0.7613
+    },
+    "dataset-hotpotqa_chunk-500-question-100_model-2": {
+        "Exact Match": 0.4706,
+        "F1 Score": 0.6048,
+        "GPT Accuracy": 0.8039,
+        "GPT F1 Score": 0.8913,
+        "BERT Precision": 0.7208,
+        "BERT Recall": 0.7507,
+        "BERT F1 Score": 0.732
+    },
+    "dataset-hotpotqa_chunk-200-question-100_model-2": {
+        "Exact Match": 0.55,
+        "F1 Score": 0.7236,
+        "GPT Accuracy": 0.8,
+        "GPT F1 Score": 0.8889,
+        "BERT Precision": 0.7746,
+        "BERT Recall": 0.791,
+        "BERT F1 Score": 0.7811
+    },
+    "dataset-hotpotqa_chunk-200-question-100_model-1": {
+        "Exact Match": 0.55,
+        "F1 Score": 0.67,
+        "GPT Accuracy": 0.75,
+        "GPT F1 Score": 0.8571,
+        "BERT Precision": 0.8048,
+        "BERT Recall": 0.7582,
+        "BERT F1 Score": 0.7745
+    },
+    "dataset-squad_chunk-100-question-100_model-2": {
+        "Exact Match": 0.48,
+        "F1 Score": 0.7354,
+        "GPT Accuracy": 0.89,
+        "GPT F1 Score": 0.9418,
+        "BERT Precision": 0.7805,
+        "BERT Recall": 0.8241,
+        "BERT F1 Score": 0.7993
+    },
+    "dataset-squad_chunk-100-question-100_model-1": {
+        "Exact Match": 0.52,
+        "F1 Score": 0.6866,
+        "GPT Accuracy": 0.78,
+        "GPT F1 Score": 0.8764,
+        "BERT Precision": 0.7881,
+        "BERT Recall": 0.7939,
+        "BERT F1 Score": 0.7852
+    }
+}

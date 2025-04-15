@@ -1,0 +1,100 @@
+Sample Number: 1
+Question: Which magazine was started first Arthur's Magazine or First for Women?
+Ground Truth: Arthur's Magazine
+Generated Response: Arthur's Magazine was started first.
+Exact Match: 0.0
+F1 Score: 0.5714285714285715
+BERTScore (P, R, F1): 0.6168, 0.8027, 0.6976
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 2
+Question: The Oberoi family is part of a hotel company that has a head office in what city?
+Ground Truth: Delhi
+Generated Response: Delhi
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 3
+Question: Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+Ground Truth: President Richard Nixon
+Generated Response: Richard Nixon's middle name.
+Exact Match: 0.0
+F1 Score: 0.28571428571428575
+BERTScore (P, R, F1): 0.5151, 0.6198, 0.5626
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 4
+Question:  What nationality was James Henry Miller's wife?
+Ground Truth: American
+Generated Response: I don't know.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.3336, 0.3544, 0.3437
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 5
+Question: Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+Ground Truth: alcohol
+Generated Response: Alcohol
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.5635, 0.5808, 0.5720
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 6
+Question: Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+Ground Truth: Jonathan Stark
+Generated Response: Jonathan Stark.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8464, 0.9069, 0.8756
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 7
+Question: Which genus of moth in the world's seventh-largest country contains only one species?
+Ground Truth: Crambidae
+Generated Response: Indogrammodes.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.6363, 0.5216, 0.5733
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 8
+Question: Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+Ground Truth: Badr Hari
+Generated Response: Badr Hari
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 9
+Question: The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+Ground Truth: 2006
+Generated Response: 2006
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 10
+Question: What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+Ground Truth: 6.213 km long
+Generated Response: 6.213 km
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.9158, 0.8255, 0.8683
+GPT Accuracy Check: yes
+--------------------------------------------------
+
+================================================== Overall Evaluation Results ==================================================
+GPT Accuracy: 0.7000
+GPT F1 Score: 0.8235
+Exact Match: 0.5000
+F1 Score: 0.6657
+BERT Precision: 0.7427
+BERT Recall: 0.7612
+BERT F1 Score: 0.7493
+========================================================================================================

@@ -1,0 +1,8 @@
+torch==2.4.1
+hdbscan==0.8.40
+litellm==1.54.0
+## testing
+langchain_huggingface==0.1.2
+langchain_community==0.3.4
+pypdf==5.1.0
+              

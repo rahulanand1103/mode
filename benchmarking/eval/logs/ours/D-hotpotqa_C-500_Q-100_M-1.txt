@@ -1,0 +1,469 @@
+Sample Number: 1
+Question: Which magazine was started first Arthur's Magazine or First for Women?
+Ground Truth: Arthur's Magazine
+Generated Response: Arthur's Magazine.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9159, 0.9374, 0.9265
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 2
+Question: The Oberoi family is part of a hotel company that has a head office in what city?
+Ground Truth: Delhi
+Generated Response: Delhi
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 3
+Question: Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+Ground Truth: President Richard Nixon
+Generated Response: None
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.3330, 0.2986, 0.3149
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 4
+Question:  What nationality was James Henry Miller's wife?
+Ground Truth: American
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5278, 0.3631, 0.4302
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 5
+Question: Cadmium Chloride is slightly soluble in this chemical, it is also called what?
+Ground Truth: alcohol
+Generated Response: Alcohol
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.5635, 0.5808, 0.5720
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 6
+Question: Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?
+Ground Truth: Jonathan Stark
+Generated Response: Jonathan Stark.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8464, 0.9069, 0.8756
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 7
+Question: Which genus of moth in the world's seventh-largest country contains only one species?
+Ground Truth: Crambidae
+Generated Response: Nepita
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5612, 0.5254, 0.5428
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 8
+Question: Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his "unsportsmanlike conducts" in the sport and crimes of violence outside of the ring.
+Ground Truth: Badr Hari
+Generated Response: Badr Hari
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 9
+Question: The Dutch-Belgian television series that "House of Anubis" was based on first aired in what year?
+Ground Truth: 2006
+Generated Response: 2006
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 10
+Question: What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?
+Ground Truth: 6.213 km long
+Generated Response: 6.213 km
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.9158, 0.8255, 0.8683
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 11
+Question: Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?
+Ground Truth: Jaime Meline
+Generated Response: El-P
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.4221, 0.5380, 0.4730
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 12
+Question: Gunmen from Laredo starred which narrator of "Frontier"?
+Ground Truth: Walter Darwin Coy
+Generated Response: Walter Coy.
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.8508, 0.8120, 0.8310
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 13
+Question: Where did the form of music played by Die Rhöner Säuwäntzt originate?
+Ground Truth: United States
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5679, 0.3600, 0.4406
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 14
+Question: In which American football game was Malcolm Smith named Most Valuable player?
+Ground Truth: Super Bowl XLVIII
+Generated Response: Super Bowl XLVIII
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 15
+Question: What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?
+Ground Truth: US 60
+Generated Response: U.S. Highway 60.
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.5911, 0.5910, 0.5911
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 16
+Question: The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?
+Ground Truth: 2006
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5318, 0.3425, 0.4167
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 17
+Question: What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? 
+Ground Truth: Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.
+Generated Response: None
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.3724, 0.3123, 0.3397
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 18
+Question: Human Error" is the season finale of the third season of a tv show that aired on what network?
+Ground Truth: Fox
+Generated Response: Fox network.
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.5592, 0.5732, 0.5661
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 19
+Question: Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single "New Rules" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?
+Ground Truth: 2017
+Generated Response: 2017
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 20
+Question: American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?
+Ground Truth: Nevada
+Generated Response: Nevada
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 21
+Question: Which state does the drug stores, of which the CEO is Warren Bryant, are located?
+Ground Truth: Hawaii
+Generated Response: Hawaii
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 22
+Question: Which  American politician did Donahue replaced 
+Ground Truth: Kelli Ward
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5596, 0.3411, 0.4238
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 23
+Question: Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?
+Ground Truth: The Wolfhounds
+Generated Response: The Wolfhounds.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9312, 0.9568, 0.9438
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 24
+Question: How old is the female main protagonist of Catching Fire?
+Ground Truth: 16-year-old
+Generated Response: 16 years old.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.7985, 0.7665, 0.7822
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 25
+Question: Chang Ucchin was born in korea during a time that ended with the conclusion of what? 
+Ground Truth: World War II
+Generated Response: World War II
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 26
+Question: Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?
+Ground Truth: Todd Phillips
+Generated Response: Todd Phillips
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 27
+Question: New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?
+Ground Truth: Carol Lawrence
+Generated Response: Carol Lawrence
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 28
+Question: Were Pavel Urysohn and Leonid Levin known for the same type of work?
+Ground Truth: no
+Generated Response: No, Urysohn in topology, Levin in computer science.
+Exact Match: 0.0
+F1 Score: 0.2222222222222222
+BERTScore (P, R, F1): 0.3593, 0.6484, 0.4624
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 29
+Question: Are both The New Pornographers and Kings of Leon American rock bands?
+Ground Truth: no
+Generated Response: No, only Kings of Leon is American.
+Exact Match: 0.0
+F1 Score: 0.25
+BERTScore (P, R, F1): 0.4209, 0.6022, 0.4955
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 30
+Question: 750 7th Avenue and 101 Park Avenue, are located in which city?
+Ground Truth: New York City
+Generated Response: New York City
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 31
+Question: Which actress played the part of fictitious character Kimberly Ann Hart, in the franchise built around a live action superhero television series taking much of its footage from the Japanese tokusatsu 'Super Sentai'?
+Ground Truth: Amy Jo Johnson
+Generated Response: Amy Jo Johnson
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 32
+Question: Who was born first, Pablo Trapero or Aleksander Ford?
+Ground Truth: Aleksander Ford
+Generated Response: Aleksander Ford.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9179, 0.9344, 0.9261
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 33
+Question: Are Jane and First for Women both women's magazines?
+Ground Truth: yes
+Generated Response: Yes.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.5970, 0.5351, 0.5644
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 34
+Question: What profession does Nicholas Ray and Elia Kazan have in common?
+Ground Truth: director
+Generated Response: Film director
+Exact Match: 0.0
+F1 Score: 0.6666666666666666
+BERTScore (P, R, F1): 0.5803, 0.7007, 0.6348
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 35
+Question: Where is the company that purchased Aixam based in?
+Ground Truth: Roseau, Minnesota, USA
+Generated Response: Roseau, Minnesota, USA.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.9454, 0.9738, 0.9594
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 36
+Question: Which documentary is about Finnish rock groups, Adam Clayton Powell or The Saimaa Gesture?
+Ground Truth: The Saimaa Gesture
+Generated Response: The Saimaa Gesture
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 37
+Question: Who was inducted into the Rock and Roll Hall of Fame, David Lee Roth or Cia Berg?
+Ground Truth: David Lee Roth
+Generated Response: David Lee Roth
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 38
+Question: Zimbabwe's Guwe Secondary School has a sister school in what New York cunty?
+Ground Truth: Nassau County
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5711, 0.2919, 0.3863
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 39
+Question: The Royal Commission into Drug Trafficking (1977–1979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the New South Wales Police and Mafia, The Honoured Society, is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of which country?  
+Ground Truth: Australia
+Generated Response: Australia
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 40
+Question: The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?
+Ground Truth: California
+Generated Response: California
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 41
+Question: The axial turbojet Pirna 014 was designed by engineers from this German aircraft and aircraft engine manufacturer based in which city?
+Ground Truth: Dessau
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5781, 0.3344, 0.4237
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 42
+Question: Which faith is designated to the University of Providence, private university accredited by the NW association of Schools and Colleges and located in a third largest city in Montana after being passed by Missoula? 
+Ground Truth: Roman Catholic
+Generated Response: Roman Catholic
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 43
+Question: Pauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?
+Ground Truth: The Joshua Tree
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5837, 0.3558, 0.4421
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 44
+Question: Guitars for Wounded Warriors is an album that was recorded in the village in which New York county?
+Ground Truth: Ulster County
+Generated Response: None.
+Exact Match: 0.0
+F1 Score: 0
+BERTScore (P, R, F1): 0.5178, 0.2721, 0.3568
+GPT Accuracy Check: no
+--------------------------------------------------
+Sample Number: 45
+Question: What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song "The Battle?"
+Ground Truth: Tammy Wynette
+Generated Response: Tammy Wynette
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 46
+Question: Who was born first, Francis Nethersole or Elizabeth Stuart?
+Ground Truth: Sir Francis Nethersole
+Generated Response: Francis Nethersole.
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.7900, 0.8085, 0.7992
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 47
+Question: What does the Hacker-Pschorr Brewery have to limit in order to comply with German regulations?
+Ground Truth: ingredients in beer
+Generated Response: Ingredients in beer.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8803, 0.8886, 0.8845
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 48
+Question: Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?
+Ground Truth: Dennis Howard Marks
+Generated Response: Howard Marks
+Exact Match: 0.0
+F1 Score: 0.8
+BERTScore (P, R, F1): 0.8393, 0.7777, 0.8073
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 49
+Question: What male actor starred in The Messenger?
+Ground Truth: Robert Sheehan
+Generated Response: Robert Sheehan
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 1.0000, 1.0000, 1.0000
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 50
+Question: Are Gin and tonic and Paloma both cocktails based on tequila?
+Ground Truth: no
+Generated Response: No, only Paloma is based on tequila.
+Exact Match: 0.0
+F1 Score: 0.25
+BERTScore (P, R, F1): 0.3853, 0.6044, 0.4706
+GPT Accuracy Check: yes
+--------------------------------------------------
+Sample Number: 51
+Question: Who is older Glenn Hughes or Ross Lynch?
+Ground Truth: Glenn Hughes
+Generated Response: Glenn Hughes.
+Exact Match: 1.0
+F1 Score: 1.0
+BERTScore (P, R, F1): 0.8502, 0.9031, 0.8759
+GPT Accuracy Check: yes
+--------------------------------------------------
+
+================================================== Overall Evaluation Results ==================================================
+GPT Accuracy: 0.7843
+GPT F1 Score: 0.8791
+Exact Match: 0.5490
+F1 Score: 0.6678
+BERT Precision: 0.7777
+BERT Recall: 0.7581
+BERT F1 Score: 0.7613
+========================================================================================================
