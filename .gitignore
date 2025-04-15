@@ -1,0 +1,6 @@
+**/__pycache__/
+__pycache__/
+.DS_Store
+test/attention
+benchmarking/eval/db/*
+dist/*
