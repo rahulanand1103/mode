@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mode_rag"
-version = "1.0.0"
+version = "1.0.2"
 description = "MODE organizes documents into semantically coherent clusters and uses centroid-based retrieval to deliver scalable, efficient, and interpretable Retrieval-Augmented Generation without relying on large vector databases."
 authors = ["Rahul Anand rahulanand1103@gmail.com"]
 license = "MIT"
