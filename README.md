@@ -10,7 +10,8 @@ Key features of MODE include:
 
 By combining these techniques, MODE delivers more accurate document retrieval and synthesis for query-based applications, improving answer quality while reducing retrieval noise. MODE is particularly well-suited for small to medium-sized document collections or datasets.
 
-📄 Docs:https://mode-rag.readthedocs.io/en/latest/ <br>
+📄 Docs: https://mode-rag.readthedocs.io/en/latest/ <br>
+🌐 Website: https://mode-rag.netlify.app/ <br>
 
 
 ## 📂 Project Structure
